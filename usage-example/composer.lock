@@ -1,0 +1,61 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "6afa9a6275369acea416ef6bbdc52b75",
+    "packages": [
+        {
+            "name": "pointotech/code-igniter-tools",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Pointotech/code-igniter-tools-packagist.git",
+                "reference": "857dedbc0b40b62e332461488dc5303442ed7175"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Pointotech/code-igniter-tools-packagist/zipball/857dedbc0b40b62e332461488dc5303442ed7175",
+                "reference": "857dedbc0b40b62e332461488dc5303442ed7175",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.2.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Pointotech\\CodeIgniter\\Tools\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Pointotech",
+                    "email": "pointotechrimouski@gmail.com"
+                }
+            ],
+            "description": "Development tools for CodeIgniter.",
+            "support": {
+                "issues": "https://github.com/Pointotech/code-igniter-tools-packagist/issues",
+                "source": "https://github.com/Pointotech/code-igniter-tools-packagist/tree/1.0.0"
+            },
+            "time": "2020-11-26T03:51:53+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=7.2"
+    },
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}
