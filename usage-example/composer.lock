@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "pointotech/code-igniter-tools",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Pointotech/code-igniter-tools-packagist.git",
-                "reference": "857dedbc0b40b62e332461488dc5303442ed7175"
+                "reference": "81164b92f4eaf310f6db11814a219ff3b8fc6fff"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Pointotech/code-igniter-tools-packagist/zipball/857dedbc0b40b62e332461488dc5303442ed7175",
-                "reference": "857dedbc0b40b62e332461488dc5303442ed7175",
+                "url": "https://api.github.com/repos/Pointotech/code-igniter-tools-packagist/zipball/81164b92f4eaf310f6db11814a219ff3b8fc6fff",
+                "reference": "81164b92f4eaf310f6db11814a219ff3b8fc6fff",
                 "shasum": ""
             },
             "require": {
@@ -42,9 +42,9 @@
             "description": "Development tools for CodeIgniter.",
             "support": {
                 "issues": "https://github.com/Pointotech/code-igniter-tools-packagist/issues",
-                "source": "https://github.com/Pointotech/code-igniter-tools-packagist/tree/1.0.0"
+                "source": "https://github.com/Pointotech/code-igniter-tools-packagist/tree/1.0.1"
             },
-            "time": "2020-11-26T03:51:53+00:00"
+            "time": "2020-11-26T04:49:08+00:00"
         }
     ],
     "packages-dev": [],
